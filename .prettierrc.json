@@ -4,6 +4,5 @@
   "singleQuote": false,
   "printWidth": 100,
   "vueIndentScriptAndStyle": true,
-  "singleAttributePerLine": false,
-  ""
+  "singleAttributePerLine": false
 }
